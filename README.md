@@ -6,7 +6,7 @@ Welcome to **DockStation**! 🌊 This is our **harbor of containerized innovatio
 
 ## 🌆 Docked Projects & Containerized Expeditions:
 
-### 1. [🌊 AquaSQL: The Ocean Meets MySQL 🐟](AquaSQL)
+### 1. [AquaSQL – A Blend of Docker’s Maritime Theme and MySQL 🐬](AquaSQL%20%E2%80%93%20A%20blend%20of%20Docker%E2%80%99s%20maritime%20theme%20and%20MySQL)  
 - **Goal:** Deploy **MySQL in a Docker container** for seamless, scalable, and efficient database management.
 - **Key Focus:** Persistent data storage, containerized SQL, and high-performance database operations.
 
