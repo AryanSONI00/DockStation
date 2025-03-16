@@ -1,8 +1,9 @@
 # ⚙️ Minikube on Windows: Your Kubernetes Playground ☸️
 
 <p align="center">
-  <img src="MiniKube Odyssey, Kubernetes in Docker on Windows/assets/logo.png" alt="Minikube Logo" width="200" />
+  <img src="MiniKube%20Odyssey,%20Kubernetes%20in%20Docker%20on%20Windows/assets/logo.png" alt="Minikube Logo" width="200" />
 </p>
+
 
 
 ## 🌟 Welcome Aboard: Your Local Kubernetes Adventure
