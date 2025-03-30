@@ -55,7 +55,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return "rajput_tarakk"
+    return ""
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0', port=5000)
@@ -171,7 +171,7 @@ http://localhost:8080
 You should see: **API Gateway**
 
 <p align="center">
-  <img src="https://github.com/AryanSONI00/My-Docker-Dockyard/raw/d470c6d6dac0fd0010f139168e48e4086da874f4/Microservices%20Architecture%20using%20Docker%20Swarm/assets/Screenshot%202025-03-19%20015446.png" alt="Project Screenshot" />
+  <img src="https://github.com/AryanSONI00/DockStation/blob/e0902b5d2da0b178c41874030ab109e800d09c61/Microservices%20Architecture%20using%20Docker%20Swarm/assets/Screenshot%202025-03-19%20015446.png" alt="Project Screenshot" />
 </p>
 
 ## 🔄 Step 8: Scaling the Services
