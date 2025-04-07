@@ -66,6 +66,11 @@ Welcome to **DockStation**! 🌊 This is our **harbor of containerized innovatio
 -   **Goal:** Create a **containerized bakery management system** optimized for **Windows environments**.
 -   **Key Focus:** Windows containerization, application deployment, and system integration.
 
+### 13. [🛠️ Jenkins Orchestration: CI/CD Pipeline Automation 🔄](Jenkins%20Orchestration)
+
+-   **Goal:** Implement a **complete CI/CD pipeline** using **Jenkins, Docker, and GitHub** for automated testing and deployment.
+-   **Key Focus:** Continuous integration, automated testing, containerized builds, and deployment automation.
+
 ---
 
 ## 🌊 Why DockStation?
