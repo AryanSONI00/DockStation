@@ -1,7 +1,7 @@
 # Python Application with Jenkins CI/CD Pipeline
 
 <div align="center">
-  <img src="/images/Jenkins.png" alt="Jenkins Logo">
+  <img src="https://github.com/AryanSONI00/DockStation/blob/784b6bc766ac94735857dc1e5e6f6b63863ae9ed/Jenkins%20Orchestration/images/Jenkins.png" alt="Jenkins Logo">
 </div>
 
 ## 1. Project Overview
@@ -106,22 +106,10 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
   <img src="https://github.com/AryanSONI00/Jenkins-Demo/blob/4d58c831da7a88a0338f6def2b935732b6bd7776/images/Screenshot%202025-04-02%20143838.png" alt="Configure Jenkins">
 </div>
 
-
-7. Create Pipeline Project:
-    - Click "New Item"
-    - Enter project name: `simple-python-pyinstaller-app`
-    - Select "Pipeline"
-    - Click "OK"
-    - In pipeline configuration:
-        - Scroll to "Pipeline" section
-        - Select "Pipeline script from SCM"
-        - Select "Git" as SCM
-        - Enter repository URL: `https://github.com/TarakKatoch/Jenkins-Orchestration.git`
-        - Enter branch specifier: `*/master`
-        - Click "Save"
-<div align="center">
-  <img src="https://github.com/AryanSONI00/Jenkins-Demo/blob/4d58c831da7a88a0338f6def2b935732b6bd7776/images/Screenshot%202025-04-02%20144309.png" alt="Configure Jenkins">
-</div>
+7. Create Pipeline Project: - Click "New Item" - Enter project name: `simple-python-pyinstaller-app` - Select "Pipeline" - Click "OK" - In pipeline configuration: - Scroll to "Pipeline" section - Select "Pipeline script from SCM" - Select "Git" as SCM - Enter repository URL: `https://github.com/TarakKatoch/Jenkins-Orchestration.git` - Enter branch specifier: `*/master` - Click "Save"
+ <div align="center">
+   <img src="https://github.com/AryanSONI00/Jenkins-Demo/blob/4d58c831da7a88a0338f6def2b935732b6bd7776/images/Screenshot%202025-04-02%20144309.png" alt="Configure Jenkins">
+ </div>
 
 8. Install and Configure Docker in Jenkins Container:
 
@@ -186,8 +174,8 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
 </div>
 
 10. Sign in to Jenkins:
-    -   Use the credentials you created in step 5
 
+    -   Use the credentials you created in step 5
 
 11. Run the Pipeline:
     -   Go to your pipeline project
@@ -215,7 +203,6 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
 <div align="center">
   <img src="https://github.com/AryanSONI00/Jenkins-Demo/blob/4d58c831da7a88a0338f6def2b935732b6bd7776/images/Screenshot%202025-04-02%20144714.png" alt="Download executable">
 </div>
-
 
 Note: The executable downloaded from Jenkins will be a Linux version since Jenkins runs in a Linux container.
 
@@ -251,8 +238,6 @@ Note: The executable downloaded from Jenkins will be a Linux version since Jenki
    # Run the executable
    ./add2vals 5 3
 ```
-
-
 
 ## 4. What Does PyInstaller Do?
 
